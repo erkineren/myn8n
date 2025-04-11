@@ -7,5 +7,5 @@ RUN apk add --no-cache \
     curl \
     docker-cli
 
-# Switch back to node user
-USER node 
+# # Switch back to node user
+# USER node 
